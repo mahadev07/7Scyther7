@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahadev07
+- 👋 Hi, I’m @7Scyther7
 - 👀 I’m interested in Smart Contracts
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on _
